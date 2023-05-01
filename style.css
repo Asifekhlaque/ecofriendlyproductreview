@@ -1,0 +1,61 @@
+.banner-section-bg-container{
+    background-image: url(https://img.freepik.com/free-vector/illustration-human-avatar-with-environment_53876-17627.jpg?w=1060&t=st=1682829392~exp=1682829992~hmac=b6410d3f789f48ec0a34062e8f9e70daab3961a5719003fbd07f676e7eb73bab);
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-section-heading{
+    font-family: Roboto;
+    font-size: 53px;
+}
+
+.banner-section-paragraph{
+    font-family: caveat;
+    font-size: 18px;
+    color: rgb(18, 85, 209);
+}
+
+.lan-text{
+    text-align: center;
+}
+.compantant{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(12, 156, 101);
+    color: white;
+}
+.checked {
+    color: orange;
+}
+.img-product{
+    width: 380px;
+    border-radius: 20px;
+}
+.review_box{
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.follow-text{
+    text-align: center;
+}
+.contact_us{
+    align-items: center;
+}
+.para-raph{
+    text-align: center;
+    background-color: rgb(15, 15, 134);
+    padding: 20px;
+    color: white;
+    font-family: roboto;
+}
